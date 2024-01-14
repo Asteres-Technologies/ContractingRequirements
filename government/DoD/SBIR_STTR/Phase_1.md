@@ -1,5 +1,5 @@
 # Department of Defense (DoD) 
-### [Please refer to this link for the most current information. (In "IMPORTANT NOTICE" links.)](https://www.dodsbirsttr.mil/submissions/login) Check for commit date for last update.
+### [Please refer to this link for the most current information. (In "IMPORTANT NOTICE" links.)](https://www.dodsbirsttr.mil/submissions/login) Check commit date for last update.
 ## Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Program
 
 ### PHASE I TEMPLATE – VOLUME 2: TECHNICAL VOLUME
