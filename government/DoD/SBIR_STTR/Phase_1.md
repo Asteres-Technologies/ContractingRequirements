@@ -131,7 +131,7 @@ The Company Commercialization Report (CCR) allows companies to report funding ou
 ### Supporting Documents (Volume 5)
 Upload the following documents in DSIP:
 - **a.** Contractor Certification Regarding Provision of Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (Attachment 1) **MANDATORY**
-- **b.** Disclosures of Foreign Affiliations or Relationships to Foreign Countries (Attachment 2) **MANDATORY** January 4, 2024
+- **b.** Disclosures of Foreign Affiliations or Relationships to Foreign Countries (Attachment 2) **MANDATORY**
 - **c.** Verification of Eligibility of Small Business Joint Ventures (Attachment 3), if applicable
 - **d.** Disclosure of Funding Sources (Attachment 4) **MANDATORY**
 - **e.** Other supporting documentation (Refer to Component-specific instructions for additional Volume 5 requirements)
