@@ -1,8 +1,8 @@
 # Department of Defense (DoD) 
-### [Please refer to this link for the most current information. (In "IMPORTANT NOTICE" links.)](https://www.dodsbirsttr.mil/submissions/login) Check commit date for last update.
+### [Please refer to this link for the most current information. (In "IMPORTANT NOTICE" links.)](https://www.dodsbirsttr.mil/submissions) Check commit date for last update.
 ## Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Program
 
-### PHASE I TEMPLATE – VOLUME 2: TECHNICAL VOLUME
+### Phase I Proposal Instructions and Requirements
 
 These instructions and template apply to the Department of Defense (DoD) Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) Phase I topics and provide general guidelines for completing the Phase I Technical Volume. Information provided in the Component-specific instructions for the topic of interest take precedence over any instructions listed below.
 
@@ -27,6 +27,7 @@ The Technical Volume shall meet the following requirements:
 Do not lock or encrypt the uploaded file. Do not include or embed active graphics such as videos, moving pictures, or other similar media in the document.
 
 Delete this instruction page and begin the Technical Volume starting with the following page.
+
 #### [Title]
 ##### Volume 2: Technical Volume
 
@@ -115,3 +116,26 @@ Delete this instruction page and begin the Technical Volume starting with the fo
     |...|...|...|...|
 
     [Completion of this table and submission of the proposal constitutes signature for the information listed in the table above.]
+
+### Content of the Cost Volume (Volume 3)
+[Complete the Cost Volume using the online form on DSIP.]
+
+### Company Commercialization Report (Volume 4)
+[Follow instructions for uploading the Company Commercialization Report from SBIR.gov.]
+
+### Supporting Documents (Volume 5)
+[Include mandatory supporting documents: Certifications, Disclosures, and Funding Agreement Certification.]
+
+### Contractor Certification Regarding Provision of Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment
+[Include certifications related to Section 889(a)(1)(B) of the NDAA.]
+
+### Disclosures of Foreign Affiliations or Relationships to Foreign Countries
+[Submit Attachment 2 "Disclosures of Foreign Affiliations or Relationships" in Volume 5.]
+
+### Certification Regarding Disclosure of Funding Sources
+[Submit Attachment 4 for disclosure of research support funding.]
+
+### Fraud, Waste and Abuse Training (Volume 6)
+[Required for Phase I and Direct to Phase II proposals. Complete the training in the Volume 6 section of DSIP.]
+
+Ensure compliance with all requirements to avoid rejection of the proposal submission.
