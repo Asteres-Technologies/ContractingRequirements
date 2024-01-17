@@ -118,24 +118,76 @@ Delete this instruction page and begin the Technical Volume starting with the fo
     [Completion of this table and submission of the proposal constitutes signature for the information listed in the table above.]
 
 ### Content of the Cost Volume (Volume 3)
-[Complete the Cost Volume using the online form on DSIP.]
+Complete the Cost Volume using the online form on DSIP.
+- Direct Labor. Hourly wages of key personel excluding profitable rate.
+- Fringe Benefits. Include the cost of fringe benefits for all employees.
+- Direct Material. Minimal costs for materials, supplies, and equipment. Equipment will be titled to the Government if purchased with SBIR funds unless the effort and value of the equipment is de minimis.
+- Subcontractors, Consultants, and Partners. Only 1/3 of the contract value can be subcontracted. Subcontractors must be identified and broken down as detailed as our own cost volume.
+- Fees. 7% to 11% of the total cost of the project.
 
 ### Company Commercialization Report (Volume 4)
-[Follow instructions for uploading the Company Commercialization Report from SBIR.gov.]
+The Company Commercialization Report (CCR) allows companies to report funding outcomes resulting from prior SBIR and STTR awards. SBIR and STTR awardees are required by SBA to update and maintain their organization’s CCR on SBIR.gov. Commercialization information is required upon completion of the last deliverable under the funding agreement. Thereafter, SBIR and STTR awardees are requested to voluntarily update the information in the database annually for a minimum period of 5 years. 
 
 ### Supporting Documents (Volume 5)
-[Include mandatory supporting documents: Certifications, Disclosures, and Funding Agreement Certification.]
+Upload the following documents in DSIP:
+- **a.** Contractor Certification Regarding Provision of Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (Attachment 1) **MANDATORY**
+- **b.** Disclosures of Foreign Affiliations or Relationships to Foreign Countries (Attachment 2) **MANDATORY** January 4, 2024
+- **c.** Verification of Eligibility of Small Business Joint Ventures (Attachment 3), if applicable
+- **d.** Disclosure of Funding Sources (Attachment 4) **MANDATORY**
+- **e.** Other supporting documentation (Refer to Component-specific instructions for additional Volume 5 requirements)
 
-### Contractor Certification Regarding Provision of Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment
-[Include certifications related to Section 889(a)(1)(B) of the NDAA.]
+#### A. Contractor Certification Regarding Provision of Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment
+1. The DoD must comply with Section 889(a)(1)(B) of the National Defense Authorization Act (NDAA) for Fiscal Year 2019, aiming to reduce or eliminate contracts with entities using certain covered telecommunications equipment or services. This includes any equipment system or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system.
+2. Proposals must include certifications in Defense Federal Acquisition Regulation Supplement (DFARS) provisions 252.204-7016, 252.204-7017, and clause 252.204-7018, executed by the authorized company representative of the proposing small business concern. These certifications must be found in BAA Attachment 1 and uploaded as a separate PDF file in the supporting documents section of Volume 5 for all proposal submissions.
+3. The requirement extends to the proposing small business concern and any contractors proposed as part of the submission, including research partners and suppliers. Failure to submit or complete the required certifications may lead to the rejection of the proposal submission without evaluation.
+4. In accordance with Section 4 of the SBIR and STTR Extension Act of 2022 and the SBA SBIR/STTR Policy Directive, the Department of Defense will review all proposals submitted in response to this BAA to assess security risks presented by small business concerns seeking a federally funded award.
 
-### Disclosures of Foreign Affiliations or Relationships to Foreign Countries
-[Submit Attachment 2 "Disclosures of Foreign Affiliations or Relationships" in Volume 5.]
+#### B. Disclosures of Foreign Affiliations or Relationships to Foreign Countries
+1. In line with the SBIR and STTR Extension Act of 2022 (Pub. L. 117-183) and the Small Business Administration (SBA) SBIR/STTR Policy Directive, small business concerns are required to disclose information regarding their investments and foreign ties.
+2. Small business concerns must submit a specific form (Version 2) in Volume 5 of the Defense SBIR/STTR Innovation Portal (DSIP) proposal submission.
+3. Failure to submit this form, use the provided form version, provide complete identifying information, answer all questions on the form, provide additional information when requested by the Government, or sign the form, will result in the proposal being deemed noncompliant and not receiving an evaluation.
+4. The form should not be locked, password-protected, or encrypted when uploading to Volume 5 in DSIP.
+5. The document also specifies that responses to disclosure questions may contain trade secrets or commercial or financial information that is privileged or confidential and exempt from public disclosure, and such information shall only be used or disclosed for evaluation purposes or in accordance with an award between the submitter and the Government.
+6. It is also noted that knowingly and willfully making any false, fictitious, or fraudulent statements or representations in response to the Disclosure Questions can be a felony under the Federal Criminal False Statement Act (18 U.S.C. Sec 1001).
 
-### Certification Regarding Disclosure of Funding Sources
-[Submit Attachment 4 for disclosure of research support funding.]
+#### C. Verification of Eligibility of Small Business Joint Ventures (Attachment 3)
+
+A small business joint venture offeror must submit with its offer the representation required in paragraph (c) of FAR solicitation provision 52.212-3 Offeror Representations and Certifications-Commercial Products and Commercial Services and paragraph (c) of FAR solicitation provision 52.219-1 Small Business Program Representations in accordance with 52.204-8(d) and 52.212-3(b) for the following categories:
+
+1. Small business; 
+2. Service-disabled veteran-owned small business; 
+3. Women-owned small business (WOSB) under the WOSB Program; 
+4. Economically disadvantaged women-owned small business under the WOSB Program; or 
+5. Historically underutilized business zone small business.
+
+#### D. Certification Regarding Disclosure of Funding Sources
+1. Small business concerns proposing to the Department of Defense must comply with Section 223(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021. This Act requires covered individuals to:
+   - Disclose the amount, type, and source of all current and pending research support received or expected to be received by the individual at the time of disclosure.
+   - Certify that the disclosure is current, accurate, and complete.
+   - Agree to update the disclosure at the request of the agency prior to the award of support and at any subsequent time the agency determines appropriate during the term of the award.
+2. Small business concerns must also certify that each covered individual who is employed by the small business and listed on the proposal has been informed about these requirements.
+3. The required disclosure and certification process is completed by filling out Attachment 4 of the Broad Agency Announcement (BAA) and uploading it to Volume 5, Supporting Documents, of the proposal submission in the Defense SBIR/STTR Innovation Portal (DSIP).
+
+#### E. Other Supporting Documentation
+The following documents may be included in Volume 5 if applicable to the proposal. Refer to 
+Component-specific instructions for additional Volume 5 requirements.
+1. Letters of Support
+2. Additional Cost Information
+3. Funding Agreement Certification
+4. Technical Data Rights (Assertions)
+5. Lifecycle Certification
+6. Allocation of Rights
+7. Verification of Eligibility of Small Business Joint Ventures (Attachment 3)
+8. Other supporting documentation
+
+A completed proposal submission in DSIP does NOT indicate that the mandatory supporting documents have been uploaded. It is the responsibility of the proposing small business concern to ensure that the mandatory documents listed above have been uploaded and included with the proposal submission. Failure to include the mandatory documents may result in the proposal being rejected.
 
 ### Fraud, Waste and Abuse Training (Volume 6)
-[Required for Phase I and Direct to Phase II proposals. Complete the training in the Volume 6 section of DSIP.]
+1. FWA training is a requirement for Phase I and Direct to Phase II proposals.
+2. The training provides information on what constitutes FWA in the SBIR/STTR program, the most common mistakes that lead to FWA, the penalties for such actions, and ways to prevent FWA in small business concerns.
+3. This training material is located in the Volume 6 section of the proposal submission module in the Defense SBIR/STTR Innovation Portal (DSIP).
+4. It is mandatory to review the training material thoroughly once per year.
+5. Planning ahead is advised to ensure sufficient time for completing this training in accordance with the proposal submission deadline.
+6. The FWA training must be completed by a DSIP firm user with read/write access, such as the Proposal Owner, Corporate Official, or Firm Admin, on behalf of the proposing small business concern.
 
-Ensure compliance with all requirements to avoid rejection of the proposal submission.
+# **Ensure compliance with all requirements to avoid rejection of the proposal submission.**
